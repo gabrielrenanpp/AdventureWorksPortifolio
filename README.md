@@ -64,7 +64,7 @@ There was sales growth from 2011 to 2013.
 
 For this reason, Power BI is an extremely important tool, as it allows end users to apply their own filters and explore the data dynamically, making analysis easier and more intuitive.
 <br><br>
-<a href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
+<a href="https://app.powerbi.com/view?r=eyJrIjoiNWJjODBmOTAtYmNhMy00YjdmLTk5ZDMtMDc4NGI4NDY3YzJmIiwidCI6IjQxNGU0N2Q2LTVhNGUtNDkzZS05OWJkLTUzMTYwZjJhYWY2ZiJ9" target="_blank">Click Here</a> e acesse o a solução desenvolvida para a empresa AdventureWorks.
 <br>
 <a href="https://github.com/gabrielrenanpp/AdventureWorksPortifolio/tree/main/PowerBI" target="_blank">Click Here</a> and access the .pbix file on GitHub.
 <br><br>
